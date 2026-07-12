@@ -46,14 +46,14 @@
       "date": "2026-05-31",
       "location": "Café Bar Billiards Atlanta, Arnhem",
       "privacy": "public",
-      "details": "Gratis entree, 18:00-21:00"
+      "details": "Gratis entree, 18.00-21.00"
     },
     {
       "title": "Buy de Broek fundraiser",
       "date": "2026-06-06",
-      "location": "De Klinker",
+      "location": "De Klinker, Nijmegen",
       "privacy": "public",
-      "details": "Detailles komen nog..."
+      "details": "Details komen nog..."
     },
     {
       "title": "Carolinafestival",
@@ -65,7 +65,7 @@
     {
       "title": "Happy Hees",
       "date": "2026-08-30",
-      "location": "Sancta Maria",
+      "location": "Sancta Maria, Nijmegen",
       "privacy": "public",
       "details": "Gratis entree, tijd wordt nog bekend.:)"
     },
@@ -81,6 +81,6 @@
       "date": "2026-11-07",
       "location": "Podium Doesburg, Doesburg",
       "privacy": "public",
-      "details": "Gratis entree, 20:00-22:00"
+      "details": "Gratis entree, 20.00-22.00"
     }
   ]
